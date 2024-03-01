@@ -28,4 +28,4 @@ O aplicativo estará disponível em `http://localhost:8083` por padrão.
 - `POST /v1/notifications`: Envia uma nova notificação.
 
 ## Dependências
-- MS User: [Link para o repositório MS User](https://github.com/seu-usuario/ms-user)
+- MS User: [[Link para o repositório MS User](https://github.com/seu-usuario/ms-user)](https://github.com/loudedje/user-management-project_Ms_User.git)https://github.com/loudedje/user-management-project_Ms_User.git
